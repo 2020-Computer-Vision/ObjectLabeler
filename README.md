@@ -38,7 +38,10 @@ You need to install:
 - [Python](https://www.python.org/downloads/)
 - [OpenCV](https://opencv.org/) version >= 3.0
   - Installation in Windows: `pip install opencv-python`
-    - Install [XServer](https://sourceforge.net/projects/xming/)
+    - Download [XServer](https://sourceforge.net/projects/xming/)
+    - update .bashrc file to include DISPLAY
+      - `export DISPLAY=:0`
+    - Restart terminal.
   - [Installation in Linux](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)
 
 ### Run project
