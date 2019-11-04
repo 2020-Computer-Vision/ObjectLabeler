@@ -106,6 +106,8 @@ Contains code that allows the user to capture their screen and parse video as pi
 ## Authors
 
 * **João Cartucho** - Please give me your feedback: to.cartucho@gmail.com
+* **Nick Maynard** - Did not contribute to the labeler but to the screen capture.
+* **Jacob Morris** - Did not contribute to the labeler but to the screen capture.
 
     Feel free to contribute
 
