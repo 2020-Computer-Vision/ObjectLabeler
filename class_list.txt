@@ -1,10 +1,2 @@
-chicken
-cow
-pig
-sheep
-villager
-spider
-enderman
-creeper
-zombie
-skeleton
+plate
+ball
